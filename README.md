@@ -1,0 +1,61 @@
+# Goonies WAVE patch
+
+This repository contains a patch to the original Goonies game, released by Konami for [MSX](https://en.wikipedia.org/wiki/MSX) computers.  **Goonies** is a classic platform game developed and published by **Konami** for the **MSX** computer in 1986.  
+
+
+![Goonies Screenshot](Goonies.png)
+
+
+## 🛠️ Project Description
+
+The **patch** provided in this project is meant to be applied to the original Goonies ROM and it will add new music in WAVE format, replacing the original PSG music. 
+
+In order to hear the new wave soundtrack, the patched game should be used with a MSX Pico+ cartridge. 
+
+A new MSX palette, with better colors, is also added when running in a MSX2 computer.
+
+Sound effects remain being played by PSG.  
+
+A comparative video showing the game with the original music and with the new music patch can be seen here:  
+🎥 [Goonies (MSX) video](https://youtu.be/oyCBmymLQ1M)
+
+## hash
+
+The file to be patched must have the following hash:
+
+**SHA256**:   dde9aacde7f061c62ba93c34b9edfdb3a54fe8289b53dac72a2fc6826c03a841
+
+**SHA1**:     250D0D6E646EAE4817802C49E367AD8C1C35A462
+
+**MD5**:      e25e87aecc04f4e5047b9af12135cde1
+
+The patch can be applied with any patcher software that supports the IPS file format, e.g. Lunar IPS.
+
+## How to use
+
+After applying the patch, copy the wav files and the patched ROM to a folder in the sd card of your MSX Pico cartridge. 
+
+Turn on your MSX with your Pico cartridge connected, and using Pico menu, navigate until the folder with the files and execute the game.
+
+
+## Credits
+
+- **Original Game**: "Goonies" (1986)
+- **Original Publisher**: Konami 
+- **Platform**: MSX
+- **Patch programmer**: Maurício Braga 
+- **WAVE musics**: produced by Jorrith Schaap and Riva Lima (2025). 
+
+"The Goonies 'R' Good Enough" Written by Cyndi Lauper, Stephen Broughton Lunt, and Arthur Stead. Performed by Cyndi Lauper. © 1985 Epic Records
+
+
+
+Goonies is a trademark of Warner Bros Inc.
+
+## Legal notice
+
+This repository is provided "as is" to owners of an original copy of the game. All rights to the original game remain with Konami and the original developers. 
+
+The use of this repository might be illegal if you do not own an original copy of the game.
+
+Also, the repository will be removed if Konami, Warner or their legal representatives ask me to do so.
