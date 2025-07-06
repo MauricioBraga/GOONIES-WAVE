@@ -58,6 +58,7 @@ Goonies is a trademark of Warner Bros Inc.
 - Jorrith Schaap.
 - Riva Lima.
 - Jeroen Taverne.
+- Pedro de Medeiros.
 - Patriek Lesparre (TNI).
 - Albert Beevendorp (TNI).
 
