@@ -10,7 +10,7 @@ This repository contains a patch to the original Goonies game, released by Konam
 
 The **patch** provided in this project is meant to be applied to the original Goonies ROM and it will add new music in WAVE format, replacing the original PSG music. 
 
-In order to hear the new wave soundtrack, the patched game should be used with a MSX Pico+ cartridge. 
+In order to hear the new wave soundtrack, the patched game should be used with a [MSX Pico+ cartridge] (https://www.msxpico.com/), made by Jeroen Taverne. 
 
 A new MSX palette, with better colors, is also added when running in a MSX2 computer.
 
@@ -23,11 +23,11 @@ A comparative video showing the game with the original music and with the new mu
 
 The file to be patched must have the following hash:
 
-**SHA256**:   dde9aacde7f061c62ba93c34b9edfdb3a54fe8289b53dac72a2fc6826c03a841
+**SHA256**:   `dde9aacde7f061c62ba93c34b9edfdb3a54fe8289b53dac72a2fc6826c03a841`
 
-**SHA1**:     250D0D6E646EAE4817802C49E367AD8C1C35A462
+**SHA1**:     `250D0D6E646EAE4817802C49E367AD8C1C35A462`
 
-**MD5**:      e25e87aecc04f4e5047b9af12135cde1
+**MD5**:      `e25e87aecc04f4e5047b9af12135cde1`
 
 The patch can be applied with any patcher software that supports the IPS file format, e.g. Lunar IPS.
 
@@ -48,6 +48,7 @@ Turn on your MSX with your Pico cartridge connected, and using Pico menu, naviga
 
 "The Goonies 'R' Good Enough" Written by Cyndi Lauper, Stephen Broughton Lunt, and Arthur Stead. Performed by Cyndi Lauper. © 1985 Epic Records
 
+MSX Pico cartridge made by Jeroen Taverne.
 
 
 Goonies is a trademark of Warner Bros Inc.
