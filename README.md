@@ -10,7 +10,7 @@ This repository contains a patch to the original Goonies game, released by Konam
 
 The **patch** provided in this project is meant to be applied to the original Goonies ROM and it will add new music in WAVE format, replacing the original PSG music. 
 
-In order to hear the new wave soundtrack, the patched game should be used with a [MSX Pico+ cartridge] (https://www.msxpico.com/), made by Jeroen Taverne. 
+In order to hear the new wave soundtrack, the patched game should be used with a [MSX Pico+ cartridge](https://www.msxpico.com/), made by Jeroen Taverne. It requires the firmware 2.05 or newer.
 
 A new MSX palette, with better colors, is also added when running in a MSX2 computer.
 
