@@ -50,8 +50,17 @@ Turn on your MSX with your Pico cartridge connected, and using Pico menu, naviga
 
 MSX Pico cartridge made by Jeroen Taverne.
 
-
 Goonies is a trademark of Warner Bros Inc.
+
+
+## Thanks
+
+- Jorrith Schaap.
+- Riva Lima.
+- Jeroen Taverne.
+- Patriek Lesparre (TNI).
+- Albert Beevendorp (TNI).
+
 
 ## Legal notice
 
