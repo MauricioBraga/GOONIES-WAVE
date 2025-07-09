@@ -59,6 +59,7 @@ Goonies is a trademark of Warner Bros Inc.
 - Riva Lima.
 - Jeroen Taverne.
 - Stefano Baldo.
+- Pedro de Medeiros.
 - OpenMSX team.
 - Patriek Lesparre (TNI).
 - Albert Beevendorp (TNI).
