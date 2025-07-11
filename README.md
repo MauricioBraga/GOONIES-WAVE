@@ -16,8 +16,14 @@ A new MSX palette, with better colors, is also added when running in a MSX2 comp
 
 Sound effects remain being played by PSG.  
 
-A comparative video showing the game with the original music and with the new music patch can be seen here:  
+After the initial release, a new option of music set is available. While the previous release included songs from BrainGames Goonies remake (Goonies 20th Anniversary Edition, released by BrainGames in 2006), this new set is a 100% BrainGames set, containing all the musics from the BrainGames Goonies remake, and used here with permission of the musician who did the songs, Jorrith Schaap. 
+
+A comparative video showing the game with the original music and with the new music patch (with the release music set) can be seen here:  
 🎥 [Goonies (MSX) video](https://youtu.be/oyCBmymLQ1M)
+
+The game with the BrainGames music set can be seen here:  
+🎥 [Goonies (MSX) video](https://youtu.be/-n7D72rfzH8)
+
 
 ## hash
 
@@ -33,7 +39,7 @@ The patch can be applied with any patcher software that supports the IPS file fo
 
 ## How to use
 
-After applying the patch, copy the wav files and the patched ROM to a folder in the sd card of your MSX Pico cartridge. 
+After applying the patch, copy the wav files of the desired music set and the patched ROM to a folder in the sd card of your MSX Pico cartridge. 
 
 Turn on your MSX with your Pico cartridge connected, and using Pico menu, navigate until the folder with the files and execute the game.
 
