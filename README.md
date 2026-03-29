@@ -2,8 +2,12 @@
 
 This repository contains a patch to the original Goonies game, released by Konami for [MSX](https://en.wikipedia.org/wiki/MSX) computers.  **Goonies** is a classic platform game developed and published by **Konami** for the **MSX** computer in 1986.  
 
+You can see the game running with the new music clicking in the image below.
 
-![Goonies Screenshot](Goonies.png)
+[![Watch the game with the patch here](Goonies.png)](https://youtu.be/oyCBmymLQ1M?t=143)
+
+
+
 
 
 ## 🛠️ Project Description
